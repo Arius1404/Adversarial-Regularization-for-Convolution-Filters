@@ -25,7 +25,7 @@ As you can see every convolution layer has different number of kernels and its' 
 ## Getting started
 We decided, that it would be more convenient for you to run this script via Google Colab, since it provide users with sufficient both GPU and CPU resources, and, moreover allows to download required datasets with only one line of code.
 You have got the opportunity to see our masterpiece and try to run it without pulling it from [Github](https://github.com/Arius1404/Adversarial-Regularization-for-Convolution-Filters). It is as easy as a pie! Just follow these steps:
-- You have to make several folders on your Google Drive. The path must be the following `/ML_project/by_channel_layer_n`, where n should be 0, 4, 7
+- You have to make several folders on your Google Drive. The path must be the following `/ML_project/by_channel_layer_n`, where n should be 0, 3, 6
 - After that follow [this](https://colab.research.google.com/drive/1E_HRN-isNgKG10ujKAst31DpydhtjURv#scrollTo=cQz8Kb_iqdbI) link and run cells consequently
 - Do not forget to give reqired permission for Colab to connect to your Google Drive.
 - Enjoy and have fun!
