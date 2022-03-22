@@ -8,7 +8,9 @@ The repository is built on top of PyTorch `1.10.0`
 ## Details
 Our Model structure is following: it has 3 convolution layers of different size made by using `Conv2d` method.
 General CNN model looks the following way:
-![CNN general model](https://github.com/Arius1404/Adversarial-Regularization-for-Convolution-Filters/blob/main/imgs/CNN.png)
+
+
+<img src="https://github.com/Arius1404/Adversarial-Regularization-for-Convolution-Filters/blob/main/imgs/CNN.png" width="800"/>
 
 In our case we slightly simplified CNN model by removing pooling since our goal does not require dimension reduction.
 As you can see every convolution layer has different number of kernels and its' size. These values for our model are printed below (check the table).
@@ -35,4 +37,6 @@ More about [CIFAR datasets](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Results
 As the output we would get kernels with evenly distributed heatmaps like this one
-![Result](https://github.com/Arius1404/Adversarial-Regularization-for-Convolution-Filters/blob/main/imgs/3-0.png)
+
+
+<img src="https://github.com/Arius1404/Adversarial-Regularization-for-Convolution-Filters/blob/main/imgs/3-0.png" width="800"/>
