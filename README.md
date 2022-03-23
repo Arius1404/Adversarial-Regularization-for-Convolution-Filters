@@ -32,7 +32,7 @@ You have got the opportunity to see our masterpiece and try to run it without pu
 
 ### Datasets
 
-During the project we used CIFAR-100 dataset. This dataset is just like the CIFAR-10, except it has 100 classes containing 600 images each. There are 500 training images and 100 testing images per class.
+During the project we used CIFAR-100 and CIFAR-10 datasets. This dataset is just like the CIFAR-10, except it has 100 classes containing 600 images each. There are 500 training images and 100 testing images per class.
 More about [CIFAR datasets](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Results
